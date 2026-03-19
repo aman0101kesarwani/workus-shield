@@ -311,9 +311,13 @@ Wallet & Payout System
 
 ![Alert](prototype/alert.png)
 
-### Claim Verification
+### Claim Verification (Approved)
 
-![Verification](prototype/verification-approved.png)
+![Verification Approved](prototype/verification-approved.png)
+
+### Claim Verification (Pending)
+
+![Verification Pending](prototype/verification-pending.png)
 
 ### Claim Approved
 
